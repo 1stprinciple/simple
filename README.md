@@ -1,2 +1,2 @@
-# Simple but powerful algorithms
+Simple but powerful algorithms
 
